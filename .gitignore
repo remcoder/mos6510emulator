@@ -7,3 +7,17 @@
 /build
 /captures
 .externalNativeBuild
+
+# added by meta .gitignore audit
+.env
+.env.*
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+.idea/
+!.env.example
+!.env.sample
+/.idea/
